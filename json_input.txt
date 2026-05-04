@@ -1,0 +1,78 @@
+{
+	"flight_status": "on time"
+}
+
+{
+	"flight_status": "departed"
+}
+
+{
+	"flight_status": "arrived"
+}
+
+{
+	"flight_status": "boarding"
+}
+
+{
+	"flight_status": "in flight"
+}
+
+{
+	"flight_status": "cancelled"
+}
+
+{
+	"number": "1A",
+	"gate_status": "available"
+}
+
+{
+	"number": "2B",
+	"gate_status": "available"
+}
+
+{
+	"number": "3C",
+	"gate_status": "available"
+}
+
+{
+	"number": "4D",
+	"gate_status": "available"
+}
+
+{
+	"airline": "Garuda Indonesia",
+	"origin": "CGK",
+	"destination": "DOH",
+	"est_departure": "2025-04-14T20:00:00",
+	"est_arrival": "2025-04-15T03:00:00",
+	"act_departure": null,
+	"act_arrival": null,
+	"gate_id": 2,
+	"status_id": 1
+}
+
+{
+	"airline": "Qatar Airways",
+	"origin": "DOH",
+	"destination": "LHR",
+	"est_departure": "2025-04-14T14:00:00",
+	"est_arrival": "2025-04-14T18:00:00",
+	"act_departure": null,
+	"act_arrival": null,
+	"gate": null,
+	"status_id": 1
+}
+
+{
+	"origin": "AMS",
+	"destination": "LCY",
+	"est_departure": "2025-04-20T18:00:00",
+	"est_arrival": "2025-04-14T20:00:00"
+}
+
+{
+	"flight_status": "rescheduled"
+}
