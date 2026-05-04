@@ -42,4 +42,4 @@ Flights follow a strict status progression enforced by validation at each transi
 - A flight **must be** `In Flight` before it can be set to `Arrived`
 - Each transition is validated against the **previous status**, preventing any out-of-order or illegal state changes
 
-**Please review the project report for further details regarding the API endpoints, ER Model, and Endpoints Testing.**
+### Kindly review the project report for further details regarding the API endpoints, ER Model, and Endpoints Testing.
