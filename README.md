@@ -1,8 +1,7 @@
 # Flight API
-This system was created as an individual final project for the course IT Systems Integration, 
-designed to manage airport flight information, supporting full CRUD operations on flights and gates to allow airport staff to create and manage flights and gates data, ensuring valid and reliable information is stored in the database
+This project was proposed and developed based on my own idea as an individual final project for the course IT Systems Integration, designed to manage airport flight information, supporting full CRUD operations on flights and gates to allow airport staff to create and manage flights and gates data, ensuring valid and reliable information is stored in the database
 
-Moreover, the Flight Management System. Includes automated gate status synchronization based on flight status changes (e.g. Boarding → Departed automatically closes the gate), auto-updates relevant fields such as actual departure time, and enforces strict status transition validations to ensure flights follow a logical lifecycle before any status change is applied.
+Moreover, the flight management system includes automated gate status synchronization based on flight status changes (e.g. Boarding → Departed automatically closes the gate), auto-updates relevant fields such as actual departure time, and enforces strict status transition validations to ensure flights follow a logical lifecycle before any status change is applied.
 
 
 ## Project Structure
